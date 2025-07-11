@@ -22,4 +22,4 @@ It includes:
 Users can discover which states have the highest case/death rates and explore facility locations to understand regional trends.
 
 ## 📷 Screenshot
-![Dashboard Preview](dashboard-screenshot.png)
+![Dashboard Preview](Covid-19 in Prisons, Jails and Detention Facilities.png)
